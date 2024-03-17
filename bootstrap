@@ -1,0 +1,89 @@
+<!DOCTYPE html
+<html lang="en"> 
+    <head> <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>The Future of Prototyping</title> 
+      <!-- Bootstrap CSS --> 
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"> 
+      <!-- Font Awesome --> 
+      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
+       <!-- Your custom CSS -->
+        <style> body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+         nav.navbar { background-color: #333; }
+    nav.navbar a.nav-link { color: #f8f9fa; }
+    
+    nav.navbar a.nav-link:hover { color: #1db33e; }
+    
+    header { background: #c3448a; color: #960f0f; padding: 2rem 0; }
+    
+    section { padding: 2rem 0; }
+    
+    i.icon-custom {font-size: 1.5rem; color: #17a2b8; }
+    
+    .btn-primary { background-color: #8a1717; border-color: #85f80b; }
+    
+    .btn-secondary { background-color: #ced10e; border-color: #0ba675; }
+    
+    h2 { color: #333; }
+    
+    .footer { background-color: #333; color: #fff; padding: 1rem 0; text-align: center; } </style>
+    
+    </head> <body> <nav class="navbar navbar-expand-lg navbar-dark"> 
+        <a class="navbar-brand" href="#">Protozone</a> 
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+             <span class="navbar-toggler-icon"></span> 
+            </button> <div class="collapse navbar-collapse" id="navbarNav">
+                 <ul class="navbar-nav ml-auto">
+                     <li class="nav-item active">
+                         <a class="nav-link" href="#">Tour</a> 
+                        </li>
+                         <li class="nav-item"> <a class="nav-link" href="#">Buzz</a> </li>
+                          <li class="nav-item"> <a class="nav-link" href="#">
+                            <i class="icon-custom fas fa-home" aria-hidden="true"></i> Home</a> </li>
+                             <li class="nav-item"> <a class="nav-link" href="#"><i class="icon-custom fas fa-address-book" aria-hidden="true"></i> Contact</a> </li>
+                              <li class="nav-item"> <a class="nav-link" href="#"><i class="icon-custom fas fa-info-circle" aria-hidden="true"></i> About Us</a> </li>
+                               <li class="nav-item"> <a class="nav-link"href="#">Help</a> </li> 
+                            </ul>
+                         </div>
+                         </nav> <header class="text-center"> <h1>The Future of Prototyping</h1>
+                             <p>Don't just prototype, build! Protozone is the premier interface-building tool for Bootstrap.</p>
+                              <a href="#" class="btn btn-primary btn-lg">order Now</a> 
+                              <a href="#" class="btn btn-secondary btn-lg">play here</a> </header> 
+                              <section class="container text-center my-5"> <div class="row"> <div class="col-md-4"> 
+                              <i class="icon-custom fas fa-drafting-compass" aria-hidden="true"></i>
+                                 <h2>What is Protozone?</h2>
+                                  <p>Protozone is a 100% web-based interface building tool for Twitter Bootstrap. No downloads, no installs.</p> </div> 
+                                  <div class="col-md-4"> <i class="icon-custom fas fa-users" aria-hidden="true"></i> <h2>wanna know ?</h2> 
+                                    <p>Built for developers, designers, and idea-people alike, Protozone helps you get awesome websites up and running.</p> </div> 
+                                    <div class="col-md-4"> <i class="icon-custom fas fa-mobile-alt" aria-hidden="true"></i> 
+                                        <h2>Mobile-first Design</h2> <p>Protozone uses a mobile-first design approach, so your websites will look great on any device.</p>
+                                     </div> </div> </section> <section class="container text-center my-5"> <div class="row"> <div class="col-md-4">
+                                     <i class="icon-custom fas fa-cogs" aria-hidden="true"></i> 
+                                        <h2>Customizable Components</h2>
+                                         <p>Protozone includes a library of customizable components that you can use to build your websites.</p> </div>
+                                          <div class="col-md-4"> <i class="icon-custom fas fa-code" aria-hidden="true"></i> 
+                                            <h2>Clean Code</h2> 
+                                            <p>Protozone generates clean and organized code that adheres to Bootstrap's best practices.</p> 
+                                        </div> 
+                                        <div class="col-md-4"> <i class="icon-custom fas fa-cloud" aria-hidden="true"></i> 
+                                            <h2>Cloud-based</h2> <p>Protozone is a cloud-based tool, so you can access it from anywhere with an internet connection.</p> 
+                                            </div> </div> 
+                                        </section> <section class="container text-center my-5">
+                                             <div class="row"> <div class="col-md-4"> <i class="icon-custom fas fa-palette" aria-hidden="true"></i> 
+                                                <h2>Customizable Themes</h2> <p>Protozone allows you to customize the look and feel of your websites with easy-to-use theme 
+                                                options.
+                                                </p> </div> 
+                                                <div class="col-md-4"> <i class="icon-custom fas fa-sync-alt" aria-hidden="true"></i>
+                                                     <h2>Real-time Preview</h2> 
+                                                     <p>Protozone offers a real-time preview of your websites, so you can see your changes as you make them.</p> </div> 
+                                                     <div class="col-md-4"> <i class="icon-custom fas fa-share-alt" aria-hidden="true"></i> 
+                                                        <h2>Collaboration</h2>
+                                                        <p>Protozone makes it easy to collaborate with your team, with real-time collaboration and version control features.
+                                                        </p> 
+                                                        </div> </div>
+                                                     </section>
+                                                      <footer class="footer"> <p>© 2023 Protozone. All rights reserved.</p> </footer> 
+                                                      <!-- Optional JavaScript --> <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+                                                       <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+                                                        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>  
+                                                        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
